@@ -12,7 +12,7 @@ of attacker behavior, using tools common in real SOC environments.
 
 ## Reports
 - [SMB Port Scan Detection](reports/01-smb-port-scan-detection.md)
-
+- [Process Creation Detection (Sysmon)](reports/02-process-creation-detection.md)
 ## Purpose
 Built to gain hands-on experience with log analysis, SIEM tooling, and 
 attacker pattern recognition ahead of an entry-level SOC Analyst role.
